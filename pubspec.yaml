@@ -1,7 +1,7 @@
 name: a_simple_container_package
-description: "A new Flutter package project."
+description: "description: A simple Flutter package that provides a customizable container widget."
 version: 0.0.1
-homepage:
+homepage: 'https://github.com/siyadjr/package_creation'
 
 environment:
   sdk: '>=3.4.4 <4.0.0'
